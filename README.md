@@ -43,6 +43,61 @@ Right channel data:
 [ 27  65  98 ... 422 485 546]
 ```
 
+Left channel data input only:
+```
+Stereo channel data:
+[[-210    0]
+ [-301    0]
+ [-402    0]
+ ...
+ [-634    0]
+ [-599    0]
+ [-570    0]]
+Left channel data:
+[-210 -301 -402 ... -634 -599 -570]
+Right channel data:
+[0 0 0 ... 0 0 0]
+Stereo channel data:
+[[-533    0]
+ [-449    0]
+ [-356    0]
+ ...
+ [-481    0]
+ [-516    0]
+ [-545    0]]
+Left channel data:
+[-533 -449 -356 ... -481 -516 -545]
+Right channel data:
+[0 0 0 ... 0 0 0]
+```
+
+Right channel data input only:
+```
+Stereo channel data:
+[[   0  144]
+ [   0  142]
+ [   0  137]
+ ...
+ [   0 -919]
+ [   0 -925]
+ [   0 -921]]
+Left channel data:
+[0 0 0 ... 0 0 0]
+Right channel data:
+[ 144  142  137 ... -919 -925 -921]
+Stereo channel data:
+[[   0 -918]
+ [   0 -920]
+ [   0 -930]
+ ...
+ [   0 -643]
+ [   0 -629]
+ [   0 -607]]
+Left channel data:
+[0 0 0 ... 0 0 0]
+Right channel data:
+[-918 -920 -930 ... -643 -629 -607]
+```
 
 ## License
 

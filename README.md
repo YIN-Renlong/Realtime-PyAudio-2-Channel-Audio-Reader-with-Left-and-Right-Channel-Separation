@@ -29,6 +29,18 @@ Left channel data:
 [535 481 433 ... 118  91  72]
 Right channel data:
 [320 263 214 ... -69 -47 -11]
+Stereo channel data:
+[[ 58  27]
+ [ 49  65]
+ [ 45  98]
+ ...
+ [173 422]
+ [207 485]
+ [254 546]]
+Left channel data:
+[ 58  49  45 ... 173 207 254]
+Right channel data:
+[ 27  65  98 ... 422 485 546]
 ```
 
 

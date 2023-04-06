@@ -14,6 +14,21 @@ This script allows you to read and process live audio input from a stereo source
 4. The program will start a live audio stream and print the stereo channel data, left channel data, and right channel data in real-time
 5. Press `Ctrl+C` to stop the live audio stream
 
+## Example of output
+
+Stereo channel data:
+[[535 320]
+ [481 263]
+ [433 214]
+ ...
+ [118 -69]
+ [ 91 -47]
+ [ 72 -11]]
+Left channel data:
+[535 481 433 ... 118  91  72]
+Right channel data:
+[320 263 214 ... -69 -47 -11]
+
 ## License
 
 This script is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.

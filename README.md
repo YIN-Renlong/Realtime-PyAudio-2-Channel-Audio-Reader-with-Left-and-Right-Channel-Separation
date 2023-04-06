@@ -16,6 +16,7 @@ This script allows you to read and process live audio input from a stereo source
 
 ## Example of output
 
+```
 Stereo channel data:
 [[535 320]
  [481 263]
@@ -28,6 +29,8 @@ Left channel data:
 [535 481 433 ... 118  91  72]
 Right channel data:
 [320 263 214 ... -69 -47 -11]
+```
+
 
 ## License
 

@@ -20,4 +20,4 @@ This script is licensed under the Apache License 2.0. See the [LICENSE](LICENSE)
 
 ## Credits
 
-This script was created by [[AUTHORS](AUTHORS)].
+This script was created by [[YIN Renlong](https://github.com/YIN-Renlong)].
